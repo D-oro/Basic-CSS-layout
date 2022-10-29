@@ -1,5 +1,4 @@
-#Basic CSS Layout
-image in parentheses ().
+### Basic CSS Layout
 
 ![screenshot of css layout](/CSSLayout.png)
 
