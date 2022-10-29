@@ -1,3 +1,8 @@
+#Basic CSS Layout
+image in parentheses ().
+
+![screenshot of css layout](/CSSLayout.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
