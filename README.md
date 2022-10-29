@@ -2,6 +2,63 @@
 
 ![screenshot of css layout](/CSSLayout.png)
 
+### css file for HomePage.js
+
+.homepage{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    background-color: lavenderblush;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: darkgreen;
+    font-size: small;
+}
+
+.hp-header, .hp-main, .hp-left, .hp-center, .hp-right, .hp-footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hp-header{
+    width: 100%;
+    height: 15%;
+    background-color: lavender;
+}
+
+.hp-main{
+    width: 100%;
+    height: 60%;
+    background-color: lightcyan;
+}
+
+.hp-left{
+    width: 20%;
+    height: 95%;
+    background-color: yellowgreen;
+}
+
+.hp-center{
+    width: 50%;
+    height: 95%;
+    background-color:skyblue;
+}
+
+.hp-right{
+    width: 20%;
+    height: 95%;
+    background-color: gold;
+}
+
+.hp-footer{
+    width: 100%;
+    height: 15%;
+    background-color: lavender;
+}
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
